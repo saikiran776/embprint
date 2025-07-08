@@ -1,0 +1,183 @@
+hr {
+    margin: 5px 0;
+    border-color: #ccc
+}
+
+.dn {
+    display: none
+}
+
+.db {
+    display: block
+}
+
+.rv {
+    resize: vertical
+}
+
+.tac {
+    text-align: center
+}
+
+.fl {
+    float: left
+}
+
+.fr {
+    float: right
+}
+
+.cb {
+    clear: both
+}
+
+.tal {
+    text-align: center
+}
+
+.tar {
+    text-align: right
+}
+
+.df {
+    display: flex
+}
+
+.jcsb {
+    justify-content: space-between
+}
+
+.dib {
+    display: inline-block
+}
+
+.pr {
+    position: relative
+}
+
+.fwb {
+    font-weight: bold
+}
+
+.tac {
+    text-align: center
+}
+
+.tdnh:hover {
+    text-decoration: none
+}
+
+.br4 {
+    border-radius: 4px
+}
+
+.list {
+    padding-left: 40px
+}
+
+.w100 {
+    width: 100%
+}
+
+.dtf {
+    line-height: 17px !important
+}
+
+.message-container {
+    width: 400px;
+    padding: 8px 15px;
+    text-align: center;
+    font-size: 16px;
+    position: fixed;
+    top: 100px;
+    left: calc(50% - 200px);
+    border-radius: 5px;
+    z-index: 9999;
+    display: none
+}
+
+.message-info {
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 1px 1px 5px rgba(194, 214, 243, .6);
+    background: #e7eef5;
+    color: #5778b7;
+    border: 1px solid rgba(98, 118, 175, .41)
+}
+
+.message-warn {
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 1px 1px 5px rgba(210, 162, 133, .41);
+    background: #ffefd2;
+    color: #cc6f2a;
+    border: 1px solid rgba(239, 139, 80, .52)
+}
+
+.noscript-message-wrap {
+    position: fixed;
+    top: 120px;
+    text-align: center;
+    width: 100%
+}
+
+.noscript-message {
+    padding: 14px 25px;
+    background-color: #fafafa;
+    color: #cc6f2a;
+    border-radius: 5px;
+    border: 1px solid #cc6f2a;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .16), 0 0 0 1px rgba(0, 0, 0, .08)
+}
+
+.pop-product {
+    width: 200px;
+    margin: 15px;
+    box-shadow: 7px 10px 15px 0 rgba(46, 61, 73, .15);
+    border-radius: 7px;
+    transition: all .3s ease;
+    float: left
+}
+
+.pop-product:hover {
+    box-shadow: 2px 4px 8px 0 rgba(46, 61, 73, .2)
+}
+
+.pop-image {
+    width: 100%;
+    min-height: 113px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px
+}
+
+.pop-details {
+    border: 1px solid #eee;
+    border-top: 0;
+    text-align: center;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px
+}
+
+.pop-name {
+    padding-top: 3px
+}
+
+.pop-link:hover {
+    text-decoration: none
+}
+
+.upload {
+    width: 16px;
+    height: 100%
+}
+
+.order-det-block {
+    float: left;
+    margin-right: 20px
+}
+
+.file-item {
+    margin-bottom: 3px
+}
+
+.file-type-img {
+    width: 24px;
+    border-radius: 4px;
+    margin-right: 10px
+}
